@@ -1,0 +1,62 @@
+ahmed|25K-0012|BAI-1C|A-400 Block 3 gulshan-e-iqbal|ahmed@gmail.com|03332342346|ahmed|ABC-123|4|3|4|0|1|Maskan;Disco;Dhaka;Nipa
+Rao|25K-0076|BAI-1C|Metro rashid minhas|rao@gmail.com|03332342348|rao|ABC-243|2|1|0|1|1|
+Hamza Khan|25K-1001|BAI-1A|Block 5 Gulistan-e-Jauhar|hamza1@gmail.com|03331001001|pass001|KHI-101|4|0|5|0|1|Nursery;Millennium;Bahadurabad;Stadium;NED
+Fatima Ali|25K-1002|BAI-1B|Malir Cantt|fatima2@gmail.com|03331001002|pass002|KHI-102|3|3|4|0|1|Quaidabad;Landhi;Drigh Road;University
+Bilal Ahmed|25K-1003|BAI-1C|North Nazimabad Block L|bilal3@gmail.com|03331001003|pass003|KHI-103|5|2|6|0|1|Hyderi;5Star;Hassan Square;Tower;Saddar;University
+Ayesha Malik|25K-1004|BAI-2A|Clifton Block 2|ayesha4@gmail.com|03331001004|pass004|KHI-104|4|4|4|0|1|Sea View;Boat Basin;Do Talwar;University
+Usman Tariq|25K-1005|BAI-2B|Defence Phase 6|usman5@gmail.com|03331001005|pass005|KHI-105|3|1|5|0|1|Khadda Market;Zamzama;Tipu Sultan;Numaish;University
+Sara Khan|25K-1006|BAI-2C|Korangi Industrial|sara6@gmail.com|03331001006|pass006|KHI-106|4|0|4|0|1|Korangi Crossing;Landhi;Shah Faisal;University
+Zain Abbas|25K-1007|BAI-1A|Saddar Town|zain7@gmail.com|03331001007|pass007|KHI-107|5|5|5|0|1|Merewether;Empress Market;Jinnah Hospital;University;
+Mariam Sheikh|25K-1008|BAI-1B|Gulshan-e-Iqbal Block 13|mariam8@gmail.com|03331001008|pass008|KHI-108|3|2|4|0|1|Jail Chowrangi;Maskan;Water Pump;University
+Hassan Raza|25K-1009|BAI-1C|PECHS Block 2|hassan9@gmail.com|03331001009|pass009|KHI-109|4|1|5|0|1|Nursery;Drigh Road;Airport;Malir;University
+Noor Fatima|25K-1010|BAI-2A|Nazimabad No 2|noor10@gmail.com|03331001010|pass010|KHI-110|4|4|3|0|1|Ayesha Manzil;Power House;University
+Kamran Siddiqui|25K-1011|BAI-2B|Federal B Area|kamran11@gmail.com|03331001011|pass011|KHI-111|5|3|6|0|1|Karimabad;Nazimabad;Nagan;Board Office;Banarus;University
+Hina Aslam|25K-1012|BAI-2C|Liaquatabad|hina12@gmail.com|03331001012|pass012|KHI-112|3|0|4|0|1|Karimabad;Nazimabad;Tower;University
+Imran Haider|25K-1013|BAI-1A|Bufferzone Sector 15|imran13@gmail.com|03331001013|pass013|KHI-113|4|2|5|0|1|North Karachi;Surjani;Hyderi;Ancholi;University
+Sana Butt|25K-1014|BAI-1B|Shah Faisal Colony|sana14@gmail.com|03331001014|pass014|KHI-114|4|1|4|0|1|Shah Faisal;Kala Pul;Baloch Colony;University
+Adnan Malik|25K-1015|BAI-1C|Orangi Town|adnan15@gmail.com|03331001015|pass015|KHI-115|5|5|5|0|1|Orangi;Qasba;Nazimabad;Liaquatabad;University
+Rabia Noor|25K-1016|BAI-2A|DHA Phase 5|rabia16@gmail.com|03331001016|pass016|KHI-116|3|3|3|0|1|Defence;Clifton;University
+Omer Farooq|25K-1017|BAI-2B|Garden East|omer17@gmail.com|03331001017|pass017|KHI-117|4|2|5|0|1|Garden;Saddar;Tibet Center;University;
+Amna Riaz|25K-1018|BAI-2C|Lyari|amna18@gmail.com|03331001018|pass018|KHI-118|4|0|4|0|1|Lyari;Kharadar;Saddar;University
+Faisal Mehmood|25K-1019|BAI-1A|Malir City|faisal19@gmail.com|03331001019|pass019|KHI-119|5|4|6|0|1|Malir;Quaidabad;Airport;Model Colony;University;
+Zoya Ahmed|25K-1020|BAI-1B|Tariq Road|zoya20@gmail.com|03331001020|pass020|KHI-120|3|1|4|0|1|Tariq Road;PIDC;Sharah-e-Faisal;University
+Talha Yousuf|25K-1021|BAI-1C|Bahadurabad|talha21@gmail.com|03331001021|pass021|KHI-121|4|4|5|0|1|Bahadurabad;Stadium;Karsaz;University;
+Aiman Hassan|25K-1022|BAI-2A|Landhi|aiman22@gmail.com|03331001022|pass022|KHI-122|4|2|4|0|1|Landhi;Quaidabad;Drigh Road;University
+Salman Khan|25K-1023|BAI-2B|Bin Qasim Town|salman23@gmail.com|03331001023|pass023|KHI-123|5|0|5|0|1|Bin Qasim;Malir;Shah Faisal;University;
+Mehwish Ali|25K-1024|BAI-2C|Baldia Town|mehwish24@gmail.com|03331001024|pass024|KHI-124|3|3|4|0|1|Baldia;Site;Orangi;University
+Arslan Ghani|25K-1025|BAI-1A|Kemari Town|arslan25@gmail.com|03331001025|pass025|KHI-125|4|1|5|0|1|Kemari;Keamari;Native Jetty;Saddar;University
+Laiba Jamil|25K-1026|BAI-1B|Jamshed Town|laiba26@gmail.com|03331001026|pass026|KHI-126|4|4|4|0|1|Gurumandir;Soldier Bazaar;Kharadar;University
+Saad Iqbal|25K-1027|BAI-1C|North Karachi|saad27@gmail.com|03331001027|pass027|KHI-127|5|3|6|0|1|North Karachi;New Karachi;Buffer Zone;Nazimabad;University;
+Maha Shakeel|25K-1028|BAI-2A|Surjani Town|maha28@gmail.com|03331001028|pass028|KHI-128|3|0|4|0|1|Surjani;Sector 5;Gulshan-e-Maymar;University
+Waqas Ahmed|25K-1029|BAI-2B|Gadap Town|waqas29@gmail.com|03331001029|pass029|KHI-129|4|2|5|0|1|Gadap;Super Highway;Sohrab Goth;University;
+Aliza Butt|25K-1030|BAI-2C|Gulberg Town|aliza30@gmail.com|03331001030|pass030|KHI-130|4|4|4|0|1|Gulberg;New Town;Nipa;University
+Fahad Sheikh|25K-2001|BAI-1A|Model Colony|fahad31@gmail.com|03332001001|pass031|KHI-201|4|4|0|1|1|
+Nimra Khan|25K-2002|BAI-1B|Shahra-e-Faisal|nimra32@gmail.com|03332001002|pass032|KHI-202|3|3|0|1|1|
+Danish Ali|25K-2003|BAI-1C|PIB Colony|danish33@gmail.com|03332001003|pass033|KHI-203|5|5|0|1|1|
+Hira Javed|25K-2004|BAI-2A|Rashid Minhas Road|hira34@gmail.com|03332001004|pass034|KHI-204|4|1|0|1|1|
+Junaid Aziz|25K-2005|BAI-2B|Shaheed-e-Millat|junaid35@gmail.com|03332001005|pass035|KHI-205|3|0|0|1|1|
+Rida Malik|25K-2006|BAI-2C|Stadium Road|rida36@gmail.com|03332001006|pass036|KHI-206|4|4|0|1|1|
+Shehryar Ahmed|25K-2007|BAI-1A|University Road|shehryar37@gmail.com|03332001007|pass037|KHI-207|5|3|0|1|1|
+Kainat Hassan|25K-2008|BAI-1B|Abul Hasan Ispahani Road|kainat38@gmail.com|03332001008|pass038|KHI-208|3|2|0|1|1|
+Rehan Siddiqui|25K-2009|BAI-1C|Jail Road|rehan39@gmail.com|03332001009|pass039|KHI-209|4|4|0|1|1|
+Ayesha Noor|25K-2010|BAI-2A|Sirsyed Road|ayesha40@gmail.com|03332001010|pass040|KHI-210|4|0|0|1|1|
+Muneeb Khan|25K-2011|BAI-2B|Banaras Chowrangi|muneeb41@gmail.com|03332001011|pass041|KHI-211|5|5|0|1|1|
+Samra Ali|25K-2012|BAI-2C|Liaquatabad 10|samra42@gmail.com|03332001012|pass042|KHI-212|3|1|0|1|1|
+Ahsan Raza|25K-2013|BAI-1A|Nishtar Road|ahsan43@gmail.com|03332001013|pass043|KHI-213|4|2|0|1|1|
+Bushra Jamil|25K-2014|BAI-1B|Jinnah Road|bushra44@gmail.com|03332001014|pass044|KHI-214|4|4|0|1|1|
+Hamza Yousuf|25K-2015|BAI-1C|MA Jinnah Road|hamza45@gmail.com|03332001015|pass045|KHI-215|5|2|0|1|1|
+Sadia Farooq|25K-2016|BAI-2A|Korangi Road|sadia46@gmail.com|03332001016|pass046|KHI-216|3|3|0|1|1|
+Bilal Hassan|25K-2017|BAI-2B|Shahrah-e-Pakistan|bilal47@gmail.com|03332001017|pass047|KHI-217|4|0|0|1|1|
+Faiza Ahmed|25K-2018|BAI-2C|Teen Talwar|faiza48@gmail.com|03332001018|pass048|KHI-218|4|1|0|1|1|
+Zeeshan Malik|25K-2019|BAI-1A|Burns Road|zeeshan49@gmail.com|03332001019|pass049|KHI-219|5|5|0|1|1|
+Nida Sheikh|25K-2020|BAI-1B|Rashid Minhas|nida50@gmail.com|03332001020|pass050|KHI-220|3|2|0|1|1|
+Irfan Butt|25K-2021|BAI-1C|Drigh Road|irfan51@gmail.com|03332001021|pass051|KHI-221|4|4|0|1|1|
+Mahnoor Ali|25K-2022|BAI-2A|Dalmia Road|mahnoor52@gmail.com|03332001022|pass052|KHI-222|4|3|0|1|1|
+Shahzaib Khan|25K-2023|BAI-2B|Soldier Bazaar|shahzaib53@gmail.com|03332001023|pass053|KHI-223|5|0|0|1|1|
+Anum Hassan|25K-2024|BAI-2C|Nazimabad 3|anum54@gmail.com|03332001024|pass054|KHI-224|3|3|0|1|1|
+Farhan Ahmed|25K-2025|BAI-1A|Gulshan-e-Iqbal 10A|farhan55@gmail.com|03332001025|pass055|KHI-225|4|1|0|1|1|
+Tooba Malik|25K-2026|BAI-1B|Defence Phase 8|tooba56@gmail.com|03332001026|pass056|KHI-226|4|4|0|1|1|
+Mudassar Ali|25K-2027|BAI-1C|Bufferzone 11|mudassar57@gmail.com|03332001027|pass057|KHI-227|5|4|0|1|1|
+Amara Khan|25K-2028|BAI-2A|Scheme 33|amara58@gmail.com|03332001028|pass058|KHI-228|3|0|0|1|1|
+Yasir Siddiqui|25K-2029|BAI-2B|Safora Goth|yasir59@gmail.com|03332001029|pass059|KHI-229|4|2|0|1|1|
+Sehrish Noor|25K-2030|BAI-2C|Al-Falah|sehrish60@gmail.com|03332001030|pass060|KHI-230|4|4|0|1|1|

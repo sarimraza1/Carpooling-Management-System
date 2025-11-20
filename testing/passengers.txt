@@ -1,0 +1,82 @@
+ali|25K-0099|BAI-1C|A-50 karachi university|ali@gmail.com|03332342349|ali|0|1
+Abbas|25K-0053|BAI-1C|North Nazimabad|abbas@gmail.com|03332342321|abbas|0|1
+Umar Farooq|25K-3001|BAI-1A|Gulistan-e-Jauhar Block 7|umar1@gmail.com|03333001001|pass101|0|1
+Sidra Ali|25K-3002|BAI-1B|Malir Colony|sidra2@gmail.com|03333001002|pass102|0|1
+Asad Khan|25K-3003|BAI-1C|North Nazimabad 4|asad3@gmail.com|03333001003|pass103|0|1
+Neha Malik|25K-3004|BAI-2A|Clifton Block 8|neha4@gmail.com|03333001004|pass104|0|1
+Shahzad Ahmed|25K-3005|BAI-2B|Defence Phase 4|shahzad5@gmail.com|03333001005|pass105|0|1
+Saira Hassan|25K-3006|BAI-2C|Korangi 5|saira6@gmail.com|03333001006|pass106|0|1
+Adeel Raza|25K-3007|BAI-1A|Saddar Cantonment|adeel7@gmail.com|03333001007|pass107|0|1
+Uzma Sheikh|25K-3008|BAI-1B|Gulshan Block 15|uzma8@gmail.com|03333001008|pass108|0|1
+Kashif Ali|25K-3009|BAI-1C|PECHS Block 6|kashif9@gmail.com|03333001009|pass109|0|1
+Esha Noor|25K-3010|BAI-2A|Nazimabad 1|esha10@gmail.com|03333001010|pass110|0|1
+Fawad Khan|25K-3011|BAI-2B|FB Area Block 9|fawad11@gmail.com|03333001011|pass111|0|1
+Rahat Ali|25K-3012|BAI-2C|Liaquatabad 5|rahat12@gmail.com|03333001012|pass112|0|1
+Nabeel Ahmed|25K-3013|BAI-1A|Bufferzone 14A|nabeel13@gmail.com|03333001013|pass113|0|1
+Fatima Zahra|25K-3014|BAI-1B|Shah Faisal 2|fatima14@gmail.com|03333001014|pass114|0|1
+Waseem Abbas|25K-3015|BAI-1C|Orangi 5|waseem15@gmail.com|03333001015|pass115|0|1
+Amina Butt|25K-3016|BAI-2A|DHA Phase 7|amina16@gmail.com|03333001016|pass116|0|1
+Haider Ali|25K-3017|BAI-2B|Garden West|haider17@gmail.com|03333001017|pass117|0|1
+Zara Khan|25K-3018|BAI-2C|Lyari Quarters|zara18@gmail.com|03333001018|pass118|0|1
+Khalid Hussain|25K-3019|BAI-1A|Malir Halt|khalid19@gmail.com|03333001019|pass119|0|1
+Samina Ahmed|25K-3020|BAI-1B|Tariq Road Plaza|samina20@gmail.com|03333001020|pass120|0|1
+Imtiaz Khan|25K-3021|BAI-1C|Bahadurabad Chowrangi|imtiaz21@gmail.com|03333001021|pass121|0|1
+Sobia Hassan|25K-3022|BAI-2A|Landhi 6|sobia22@gmail.com|03333001022|pass122|0|1
+Rizwan Ahmed|25K-3023|BAI-2B|Steel Town|rizwan23@gmail.com|03333001023|pass123|0|1
+Huma Malik|25K-3024|BAI-2C|Site Area|huma24@gmail.com|03333001024|pass124|0|1
+Nadeem Ali|25K-3025|BAI-1A|Mauripur|nadeem25@gmail.com|03333001025|pass125|0|1
+Sana Javed|25K-3026|BAI-1B|Jamshed Quarters|sana26@gmail.com|03333001026|pass126|0|1
+Kamran Yousuf|25K-3027|BAI-1C|North Karachi 7D|kamran27@gmail.com|03333001027|pass127|0|1
+Nazia Sheikh|25K-3028|BAI-2A|Surjani Sector 7B|nazia28@gmail.com|03333001028|pass128|0|1
+Tariq Mehmood|25K-3029|BAI-2B|Gadap Bungalows|tariq29@gmail.com|03333001029|pass129|0|1
+Ambreen Noor|25K-3030|BAI-2C|Gulberg Block 3|ambreen30@gmail.com|03333001030|pass130|0|1
+Shoaib Hassan|25K-3031|BAI-1A|Model Colony Block 4|shoaib31@gmail.com|03333001031|pass131|0|1
+Maria Khan|25K-3032|BAI-1B|Shahra Faisal Midway|maria32@gmail.com|03333001032|pass132|0|1
+Sajid Ali|25K-3033|BAI-1C|PIB Colony Block C|sajid33@gmail.com|03333001033|pass133|0|1
+Nosheen Ahmed|25K-3034|BAI-2A|Rashid Minhas Scheme|nosheen34@gmail.com|03333001034|pass134|0|1
+Aamir Sheikh|25K-3035|BAI-2B|Shaheed Millat Expo|aamir35@gmail.com|03333001035|pass135|0|1
+Saadia Malik|25K-3036|BAI-2C|Stadium Commercial|saadia36@gmail.com|03333001036|pass136|0|1
+Hamid Raza|25K-3037|BAI-1A|University Area|hamid37@gmail.com|03333001037|pass137|0|1
+Tania Hassan|25K-3038|BAI-1B|Ispahani Center|tania38@gmail.com|03333001038|pass138|0|1
+Saleem Khan|25K-3039|BAI-1C|Jail Chowki|saleem39@gmail.com|03333001039|pass139|0|1
+Rafia Noor|25K-3040|BAI-2A|Sirsyed Block|rafia40@gmail.com|03333001040|pass140|0|1
+Atif Ahmed|25K-3041|BAI-2B|Banaras Market|atif41@gmail.com|03333001041|pass141|0|1
+Maryam Ali|25K-3042|BAI-2C|Liaquatabad 7|maryam42@gmail.com|03333001042|pass142|0|1
+Zaheer Abbas|25K-3043|BAI-1A|Nishtar Park|zaheer43@gmail.com|03333001043|pass143|0|1
+Fozia Sheikh|25K-3044|BAI-1B|Jinnah Court|fozia44@gmail.com|03333001044|pass144|0|1
+Naveed Khan|25K-3045|BAI-1C|MA Jinnah Market|naveed45@gmail.com|03333001045|pass145|0|1
+Shabana Malik|25K-3046|BAI-2A|Korangi Industrial 4|shabana46@gmail.com|03333001046|pass146|0|1
+Rashid Ali|25K-3047|BAI-2B|Pakistan Chowk|rashid47@gmail.com|03333001047|pass147|0|1
+Ghazala Hassan|25K-3048|BAI-2C|Do Talwar|ghazala48@gmail.com|03333001048|pass148|0|1
+Azhar Ahmed|25K-3049|BAI-1A|Burns Road Area|azhar49@gmail.com|03333001049|pass149|0|1
+Shazia Khan|25K-3050|BAI-1B|Rashid Minhas Stop|shazia50@gmail.com|03333001050|pass150|0|1
+Javed Iqbal|25K-3051|BAI-1C|Drigh Colony|javed51@gmail.com|03333001051|pass151|0|1
+Rukhsana Ali|25K-3052|BAI-2A|Dalmia Junction|rukhsana52@gmail.com|03333001052|pass152|0|1
+Nasir Khan|25K-3053|BAI-2B|Soldier Bazaar 2|nasir53@gmail.com|03333001053|pass153|0|1
+Shaista Hassan|25K-3054|BAI-2C|Nazimabad 5|shaista54@gmail.com|03333001054|pass154|0|1
+Arif Ahmed|25K-3055|BAI-1A|Gulshan 11C|arif55@gmail.com|03333001055|pass155|0|1
+Hina Malik|25K-3056|BAI-1B|DHA Phase 2|hina56@gmail.com|03333001056|pass156|0|1
+Pervez Ali|25K-3057|BAI-1C|Bufferzone 12C|pervez57@gmail.com|03333001057|pass157|0|1
+Naseem Sheikh|25K-3058|BAI-2A|Scheme 33 Block D|naseem58@gmail.com|03333001058|pass158|0|1
+Majid Khan|25K-3059|BAI-2B|Safora Chowrangi|majid59@gmail.com|03333001059|pass159|0|1
+Rubina Hassan|25K-3060|BAI-2C|Al-Falah Society|rubina60@gmail.com|03333001060|pass160|0|1
+Zahid Ahmed|25K-3061|BAI-1A|New Karachi 5L|zahid61@gmail.com|03333001061|pass161|0|1
+Farzana Malik|25K-3062|BAI-1B|Federal B 16|farzana62@gmail.com|03333001062|pass162|0|1
+Shakeel Abbas|25K-3063|BAI-1C|Nazimabad 4B|shakeel63@gmail.com|03333001063|pass163|0|1
+Lubna Khan|25K-3064|BAI-2A|Bahadurabad KDA|lubna64@gmail.com|03333001064|pass164|0|1
+Mazhar Ali|25K-3065|BAI-2B|Clifton Underpass|mazhar65@gmail.com|03333001065|pass165|0|1
+Yasmeen Hassan|25K-3066|BAI-2C|Garden Road|yasmeen66@gmail.com|03333001066|pass166|0|1
+Akram Ahmed|25K-3067|BAI-1A|Gulistan Johar 16|akram67@gmail.com|03333001067|pass167|0|1
+Samreen Noor|25K-3068|BAI-1B|PECHS Block 3|samreen68@gmail.com|03333001068|pass168|0|1
+Mohsin Khan|25K-3069|BAI-1C|North Nazimabad 6|mohsin69@gmail.com|03333001069|pass169|0|1
+Tasneem Malik|25K-3070|BAI-2A|Malir Extension|tasneem70@gmail.com|03333001070|pass170|0|1
+Raheel Ali|25K-3071|BAI-2B|Defence View|raheel71@gmail.com|03333001071|pass171|0|1
+Naila Sheikh|25K-3072|BAI-2C|Korangi 2|naila72@gmail.com|03333001072|pass172|0|1
+Anwar Hassan|25K-3073|BAI-1A|Saddar Electronics|anwar73@gmail.com|03333001073|pass173|0|1
+Shama Ahmed|25K-3074|BAI-1B|Tariq Road Center|shama74@gmail.com|03333001074|pass174|0|1
+Qamar Khan|25K-3075|BAI-1C|Liaquatabad 8|qamar75@gmail.com|03333001075|pass175|0|1
+Saima Hassan|25K-3076|BAI-2A|FB Area 10|saima76@gmail.com|03333001076|pass176|0|1
+Jameel Ahmed|25K-3077|BAI-2B|Orangi 11|jameel77@gmail.com|03333001077|pass177|0|1
+Parveen Malik|25K-3078|BAI-2C|DHA Phase 1|parveen78@gmail.com|03333001078|pass178|0|1
+Tanveer Ali|25K-3079|BAI-1A|Shah Faisal 6|tanveer79@gmail.com|03333001079|pass179|0|1
+Nusrat Khan|25K-3080|BAI-1B|Landhi 3|nusrat80@gmail.com|03333001080|pass180|0|1

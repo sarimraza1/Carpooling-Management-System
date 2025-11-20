@@ -1,0 +1,30 @@
+rao@gmail.com|17/11/2025|Tuesday|8:00|0|4|2|1|1|Maskan;Disco;Dhaka;Nipa
+fahad31@gmail.com|18/11/2025|Monday|7:30|0|5|4|2|1|Model Colony;Airport;Drigh Road;Shah Faisal;University
+nimra32@gmail.com|18/11/2025|Monday|8:00|0|4|3|3|1|Shahra Faisal;PIDC;Karsaz;University
+danish33@gmail.com|19/11/2025|Tuesday|7:45|0|6|5|4|1|PIB Colony;Jail Road;Tower;Saddar;University;
+hira34@gmail.com|19/11/2025|Tuesday|8:15|0|3|1|5|1|Rashid Minhas;Gulshan;Nipa
+junaid35@gmail.com|20/11/2025|Wednesday|7:30|0|4|0|6|1|Shaheed Millat;Bahadurabad;Stadium;University
+rida36@gmail.com|20/11/2025|Wednesday|8:00|0|5|4|7|1|Stadium;Karsaz;Baloch Colony;Drigh Road;University
+shehryar37@gmail.com|21/11/2025|Thursday|7:45|1|6|3|8|1|University;Hassan Square;Tower;Nazimabad;Hyderi;
+kainat38@gmail.com|21/11/2025|Thursday|8:30|0|4|2|9|1|Ispahani;Bahadurabad;Stadium;University
+rehan39@gmail.com|22/11/2025|Friday|7:30|0|5|4|10|1|Jail Road;Nazimabad;Power House;Ancholi;University
+muneeb41@gmail.com|18/11/2025|Monday|8:15|1|6|5|11|1|University;Stadium;Karsaz;Drigh Road;Malir;Model Colony
+samra42@gmail.com|19/11/2025|Tuesday|7:45|0|4|1|12|1|Liaquatabad;Nazimabad;Tower;University
+ahsan43@gmail.com|19/11/2025|Tuesday|8:00|0|5|2|13|1|Nishtar Road;Saddar;Garden;University;
+bushra44@gmail.com|20/11/2025|Wednesday|7:30|1|5|4|14|1|University;Saddar;Jinnah Hospital;Merewether;
+hamza45@gmail.com|20/11/2025|Wednesday|8:15|0|6|2|15|1|MA Jinnah Road;Saddar;Tower;University;;
+sadia46@gmail.com|21/11/2025|Thursday|7:45|0|4|3|16|1|Korangi;Landhi;Shah Faisal;University
+bilal47@gmail.com|21/11/2025|Thursday|8:00|0|5|0|17|1|Pakistan Chowk;Saddar;Garden;University;
+faiza48@gmail.com|22/11/2025|Friday|7:30|0|5|1|18|1|Teen Talwar;Do Talwar;Clifton;University;
+zeeshan49@gmail.com|18/11/2025|Monday|8:00|1|6|5|19|1|University;Saddar;Burns Road;Kharadar;;
+nida50@gmail.com|19/11/2025|Tuesday|7:45|0|4|2|20|1|Rashid Minhas;Malir;University;
+irfan51@gmail.com|19/11/2025|Tuesday|8:15|1|5|4|21|1|University;Drigh Road;Airport;Malir;
+mahnoor52@gmail.com|20/11/2025|Wednesday|7:30|0|5|3|22|1|Dalmia;Soldier Bazaar;Kharadar;Saddar;University
+shahzaib53@gmail.com|20/11/2025|Wednesday|8:00|0|6|0|23|1|Soldier Bazaar;Saddar;Tower;Garden;University;
+anum54@gmail.com|21/11/2025|Thursday|7:45|0|4|3|24|1|Nazimabad;Hyderi;Ancholi;University
+farhan55@gmail.com|21/11/2025|Thursday|8:15|0|5|1|25|1|Gulshan 10A;Water Pump;Nipa;University;
+tooba56@gmail.com|22/11/2025|Friday|7:30|1|5|4|26|1|University;Clifton;Defence;Khadda Market;
+mudassar57@gmail.com|18/11/2025|Monday|8:00|1|6|4|27|1|University;North Karachi;Bufferzone;Surjani;;
+amara58@gmail.com|19/11/2025|Tuesday|7:45|0|4|0|28|1|Scheme 33;Gulshan;Nipa;University
+yasir59@gmail.com|19/11/2025|Tuesday|8:15|0|5|2|29|1|Safora;Gulshan Maymar;New Karachi;University;
+sehrish60@gmail.com|20/11/2025|Wednesday|7:30|0|5|4|30|1|Al-Falah;Nipa;Gulshan;University;
