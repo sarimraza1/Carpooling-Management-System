@@ -1,116 +1,174 @@
-# 🚗 Carpooling Management System 🌍
+# 🚗 University Carpooling Management System
 
-> **Connect. Share. Commute Smart.**
+A comprehensive carpooling management system for universities, built with C and GTK3 GUI framework.
 
-A dynamic C-based carpool management platform that intelligently matches riders and drivers, optimizing shared journeys with powerful core logic and an intuitive user interface. Whether you're looking to reduce travel costs or help the environment, this system makes it seamless.
+## 📥 Download & Run (No Installation Required!)
 
----
+### For Windows Users:
+
+1. Go to [Releases](https://github.com/sarimraza1/Carpooling-Management-System/releases)
+2. Download `CarPoolApp-Portable.zip` (~36 MB)
+3. Extract the ZIP file
+4. Double-click `run_carpool.bat`
+5. That's it! No installation needed.
+
+### Default Login Credentials:
+
+- **Admin**:
+  - Email: `admin@uni.edu`
+  - Password: `admin123`
 
 ## ✨ Features
 
-🔹 **Core Matching Logic** — Sophisticated algorithm in `corelogic.c` that intelligently pairs drivers with passengers.
+### For Drivers:
 
-🔹 **User Interface & Operations** — Clean, interactive driver in `carpool_gui.c` for managing rides and matches.
+- Register and create profile
+- Set up fixed routes or offer flexible rides
+- Manage weekly timetable
+- View matched passengers
+- Track available seats
 
-🔹 **Sample Data Files** — Pre-loaded test data in `testing/` to explore and validate the system.
+### For Passengers:
 
----
+- Register and create profile
+- Search for available rides
+- View driver routes and schedules
+- Request rides
+- Manage bookings
 
-## 📁 Project Structure
+### For Administrators:
+
+- View all drivers and passengers
+- Manage user accounts
+- Monitor system activity
+- Generate reports
+
+## 🛠️ Development
+
+### Project Structure:
 
 ```
-Carpooling-Management-System/
-├── 📂 code/
-│   ├── 🔧 carpool_gui.c        ← User interface & operations
-│   └── ⚙️  corelogic.c          ← Matching algorithm & core logic
-│
-├── 📂 testing/
-│   ├── 🔐 admin.txt            ← Admin configuration
-│   ├── 👥 drivers.txt          ← Driver profiles
-│   ├── 👨‍👩‍👧‍👦 passengers.txt       ← Passenger records
-│   ├── 🚕 flex_rides.txt        ← Flexible ride requests
-│   └── ✅ matches.txt          ← Sample matched rides
-│
-└── 📖 README.md                ← You are here
+├── code/
+│   ├── carpool_gui.c          # Main GUI application
+│   ├── corelogic.c            # Core business logic
+│   ├── README_corelogic.md    # Core logic documentation
+│   └── technicaldoc.md        # Technical documentation
+├── testing/
+│   ├── carpool_gui.exe        # Compiled executable
+│   └── *.txt                  # Test data files
+└── portable_package/          # Ready-to-distribute package
 ```
 
----
+### Building from Source:
 
-## 🛠️ Requirements
+#### Prerequisites:
 
-- **C Compiler** — GCC, Clang, MinGW, or any standard C compiler
-- **Windows, macOS, or Linux** — Cross-platform compatible
-- **~10 MB disk space** — Minimal footprint
+- MinGW-w64 or MSYS2
+- GTK3 development libraries
+- GCC compiler
 
----
+#### Compile:
 
-## 🚀 Quick Start
-
-### **Build** (Windows, cmd.exe)
-
-Navigate to the repo root and compile:
-
-```cmd
-gcc code\*.c -o carpool
+```bash
+gcc carpool_gui.c -o carpool_gui.exe `pkg-config --cflags --libs gtk+-3.0`
 ```
 
-✅ This generates `carpool.exe` in your current directory.
+For detailed build instructions, see [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)
 
-### **Run**
+### Creating Portable Package:
 
-```cmd
-carpool
+```batch
+create_portable_package.bat
 ```
 
-The program reads from the `testing/` directory by default. Ensure the test data files are present or provide custom paths as arguments.
+This will automatically:
+
+- Copy the executable
+- Bundle all required GTK DLLs
+- Include themes and icons
+- Create launcher script
+- Package everything for distribution
+
+See [PORTABLE_PACKAGE_GUIDE.md](PORTABLE_PACKAGE_GUIDE.md) for details.
+
+## 📚 Documentation
+
+- **[BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)** - How to compile and build
+- **[PORTABLE_PACKAGE_GUIDE.md](PORTABLE_PACKAGE_GUIDE.md)** - Creating portable packages
+- **[DISTRIBUTION_GUIDE.md](DISTRIBUTION_GUIDE.md)** - Distributing your application
+- **[code/README_corelogic.md](code/README_corelogic.md)** - Core logic documentation
+- **[code/technicaldoc.md](code/technicaldoc.md)** - Technical specifications
+
+## 🎯 Use Cases
+
+### University Scenario:
+
+Students living in the same area can:
+
+1. Drivers register and set their daily routes to campus
+2. Passengers search for rides along their route
+3. System matches drivers and passengers
+4. Both parties save money and reduce carbon footprint
+
+### Features:
+
+- **Fixed Routes**: Regular daily commutes with set schedules
+- **Flexible Rides**: One-time or occasional rides
+- **Smart Matching**: Automatic matching based on routes and schedules
+- **Timetable Integration**: Match rides with class schedules
+
+## 🔧 Technical Details
+
+- **Language**: C
+- **GUI Framework**: GTK3
+- **Platform**: Windows (portable package available)
+- **Data Storage**: Text files (drivers.txt, passengers.txt, etc.)
+- **Architecture**: Modular design with separate GUI and core logic
+
+## 📝 License
+
+This project is created as a university project for Programming Fundamentals course.
+
+## 👥 Contributors
+
+- Sarim Raza (@sarimraza1)
+
+## 🐛 Known Issues & Limitations
+
+- Currently Windows-only (portable package)
+- Data stored in plain text files (not encrypted)
+- Single-user mode (no concurrent access)
+
+## 🚀 Future Enhancements
+
+- Database integration (SQLite)
+- Multi-platform support (Linux, macOS)
+- Real-time notifications
+- GPS integration
+- Mobile app
+- Payment integration
+
+## 📞 Support
+
+If you encounter any issues:
+
+1. Check the [DISTRIBUTION_GUIDE.md](DISTRIBUTION_GUIDE.md) troubleshooting section
+2. Make sure you're running `run_carpool.bat` (not the .exe directly)
+3. Verify all files are extracted properly
+4. Open an issue on GitHub
+
+## 🎓 Academic Context
+
+This project was developed as part of the Programming Fundamentals course to demonstrate:
+
+- C programming skills
+- GUI development
+- Data structure implementation
+- File I/O operations
+- Software design principles
 
 ---
 
-## 📊 Test Data & Examples
-
-All sample data files are in the `testing/` folder:
-
-| File | Purpose | Format |
-|------|---------|--------|
-| `admin.txt` | 🔐 Admin credentials & configuration | Text-based config |
-| `drivers.txt` | 👥 Driver profiles & availability | One driver per line |
-| `passengers.txt` | 👨‍👩‍👧‍👦 Passenger requests & preferences | One passenger per line |
-| `flex_rides.txt` | 🚕 Flexible ride/carpool requests | Dynamic ride data |
-| `matches.txt` | ✅ Output: successful ride matches | Match results |
-
-**Tip:** Copy these files to your working directory, or modify paths in the code to point to them.
-
----
-
-## 🎯 Next Steps & Enhancements
-
-This README is your starting point! Here's what you can explore or improve:
-
-- 🔍 **Dive Deeper** — Inspect `carpool_gui.c` and `corelogic.c` for exact API documentation and usage examples.
-- 🏗️ **Automate Builds** — Create a `build.bat` (Windows) or `Makefile` for one-command compilation.
-- 📝 **Document Algorithms** — Add detailed comments or a DESIGN.md explaining the matching logic.
-- 🧪 **Expand Tests** — Build more comprehensive test data sets.
-- 🌐 **Add Web UI** — Wrap the core logic in a REST API or web interface.
-
----
-
-## 💡 Tips & Troubleshooting
-
-**❌ Compilation fails?**
-- Ensure GCC is installed: `gcc --version`
-- Check file paths in `code\*.c` reference the correct data files.
-
-**❌ Program crashes on startup?**
-- Verify test data files exist in `testing/` or update file paths in the code.
-- Check that `admin.txt`, `drivers.txt`, etc., are not empty or malformed.
-
-**✅ Everything works?**
-- Congrats! 🎉 Explore the matching logic and extend it with new features.
-
----
-
-## 📄 License & Credits
-
-- **Project:** Carpooling Management System
-- **Repository:** [sarimraza1/Carpooling-Management-System](https://github.com/sarimraza1/Carpooling-Management-System)
-- **Use & Enjoy:** 🚀
+**Version**: 1.0  
+**Last Updated**: November 2025  
+**Status**: Active Development

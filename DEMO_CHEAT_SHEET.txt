@@ -1,0 +1,113 @@
+╔═══════════════════════════════════════════════════════════════╗
+║                    UNIVERSITY DEMO - CHEAT SHEET              ║
+║              Carpool Management System v1.0                   ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📥 STEP 1: DOWNLOAD (At University PC)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Open browser
+2. Go to: github.com/sarimraza1/Carpooling-Management-System/releases
+3. Click: "CarPoolApp-Portable.zip" (36 MB)
+4. Wait for download to complete
+
+📦 STEP 2: EXTRACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Go to Downloads folder
+2. Right-click "CarPoolApp-Portable.zip"
+3. Click "Extract All..."
+4. Choose Desktop
+5. Click "Extract"
+
+▶️ STEP 3: RUN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. Open "portable_package" folder on Desktop
+2. Double-click "run_carpool.bat" ⚙️
+3. Wait 2-3 seconds
+4. Application opens! ✅
+
+🔐 LOGIN CREDENTIALS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Admin:
+  Email:    admin@uni.edu
+  Password: admin123
+
+Test Driver:
+  Email:    driver@example.com
+  Password: password123
+
+Test Passenger:
+  Email:    passenger@example.com
+  Password: password123
+
+⚠️ IMPORTANT - DO NOT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+❌ Don't click "carpool_gui.exe" directly
+❌ Don't download from green "Code" button
+❌ Don't move files out of the folder
+
+✅ IMPORTANT - DO:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Always use "run_carpool.bat"
+✅ Keep all files in the same folder
+✅ Extract the entire ZIP file
+
+🚨 TROUBLESHOOTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Problem: "Windows protected your PC"
+Solution: Click "More info" → "Run anyway"
+
+Problem: "Missing DLL" error
+Solution: Use run_carpool.bat, NOT the .exe
+
+Problem: Nothing happens
+Solution: Make sure entire folder was extracted
+
+⏱️ TIMELINE (Total: ~2 minutes)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+00:00 - Navigate to GitHub
+00:30 - Start download
+01:00 - Download complete
+01:30 - Extract files
+02:00 - Run application ✅
+
+📋 DEMO CHECKLIST
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Before Demo (5 mins early):
+□ Download ZIP from GitHub
+□ Extract to Desktop
+□ Test run once
+□ Close application
+□ Reopen for actual demo
+
+During Demo:
+□ Double-click run_carpool.bat
+□ Login as admin
+□ Show features
+
+🔗 QUICK LINKS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Releases Page:
+github.com/sarimraza1/Carpooling-Management-System/releases
+
+Direct Download (after upload):
+github.com/sarimraza1/Carpooling-Management-System/releases/
+download/v1.0-portable/CarPoolApp-Portable.zip
+
+💾 BACKUP PLAN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+If GitHub doesn't work:
+1. Use USB drive with "portable_package" folder
+2. Copy folder to Desktop
+3. Run run_carpool.bat
+4. Same result!
+
+📱 SAVE THIS INFO ON YOUR PHONE!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Take a photo of this page or save as PDF.
+
+╔═══════════════════════════════════════════════════════════════╗
+║  REMEMBER: Download CarPoolApp-Portable.zip from RELEASES!   ║
+║  Then: Extract → Open folder → Run run_carpool.bat           ║
+╚═══════════════════════════════════════════════════════════════╝
+
+Good luck with your demo! 🎉
