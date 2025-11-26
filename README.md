@@ -1,174 +1,97 @@
-# 🚗 University Carpooling Management System
+# 🚗 University Carpooling System
 
-A comprehensive carpooling management system for universities, built with C and GTK3 GUI framework.
+> **Connect. Commute. Save.**  
+> The ultimate campus ride-sharing solution built for students, by students.
 
-## 📥 Download & Run (No Installation Required!)
-
-### For Windows Users:
-
-1. Go to [Releases](https://github.com/sarimraza1/Carpooling-Management-System/releases)
-2. Download `CarPoolApp-Portable.zip` (~36 MB)
-3. Extract the ZIP file
-4. Double-click `run_carpool.bat`
-5. That's it! No installation needed.
-
-### Default Login Credentials:
-
-- **Admin**:
-  - Email: `admin@uni.edu`
-  - Password: `admin123`
-
-## ✨ Features
-
-### For Drivers:
-
-- Register and create profile
-- Set up fixed routes or offer flexible rides
-- Manage weekly timetable
-- View matched passengers
-- Track available seats
-
-### For Passengers:
-
-- Register and create profile
-- Search for available rides
-- View driver routes and schedules
-- Request rides
-- Manage bookings
-
-### For Administrators:
-
-- View all drivers and passengers
-- Manage user accounts
-- Monitor system activity
-- Generate reports
-
-## 🛠️ Development
-
-### Project Structure:
-
-```
-├── code/
-│   ├── carpool_gui.c          # Main GUI application
-│   ├── corelogic.c            # Core business logic
-│   ├── README_corelogic.md    # Core logic documentation
-│   └── technicaldoc.md        # Technical documentation
-├── testing/
-│   ├── carpool_gui.exe        # Compiled executable
-│   └── *.txt                  # Test data files
-└── portable_package/          # Ready-to-distribute package
-```
-
-### Building from Source:
-
-#### Prerequisites:
-
-- MinGW-w64 or MSYS2
-- GTK3 development libraries
-- GCC compiler
-
-#### Compile:
-
-```bash
-gcc carpool_gui.c -o carpool_gui.exe `pkg-config --cflags --libs gtk+-3.0`
-```
-
-For detailed build instructions, see [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)
-
-### Creating Portable Package:
-
-```batch
-create_portable_package.bat
-```
-
-This will automatically:
-
-- Copy the executable
-- Bundle all required GTK DLLs
-- Include themes and icons
-- Create launcher script
-- Package everything for distribution
-
-See [PORTABLE_PACKAGE_GUIDE.md](PORTABLE_PACKAGE_GUIDE.md) for details.
-
-## 📚 Documentation
-
-- **[BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)** - How to compile and build
-- **[PORTABLE_PACKAGE_GUIDE.md](PORTABLE_PACKAGE_GUIDE.md)** - Creating portable packages
-- **[DISTRIBUTION_GUIDE.md](DISTRIBUTION_GUIDE.md)** - Distributing your application
-- **[code/README_corelogic.md](code/README_corelogic.md)** - Core logic documentation
-- **[code/technicaldoc.md](code/technicaldoc.md)** - Technical specifications
-
-## 🎯 Use Cases
-
-### University Scenario:
-
-Students living in the same area can:
-
-1. Drivers register and set their daily routes to campus
-2. Passengers search for rides along their route
-3. System matches drivers and passengers
-4. Both parties save money and reduce carbon footprint
-
-### Features:
-
-- **Fixed Routes**: Regular daily commutes with set schedules
-- **Flexible Rides**: One-time or occasional rides
-- **Smart Matching**: Automatic matching based on routes and schedules
-- **Timetable Integration**: Match rides with class schedules
-
-## 🔧 Technical Details
-
-- **Language**: C
-- **GUI Framework**: GTK3
-- **Platform**: Windows (portable package available)
-- **Data Storage**: Text files (drivers.txt, passengers.txt, etc.)
-- **Architecture**: Modular design with separate GUI and core logic
-
-## 📝 License
-
-This project is created as a university project for Programming Fundamentals course.
-
-## 👥 Contributors
-
-- Sarim Raza (@sarimraza1)
-
-## 🐛 Known Issues & Limitations
-
-- Currently Windows-only (portable package)
-- Data stored in plain text files (not encrypted)
-- Single-user mode (no concurrent access)
-
-## 🚀 Future Enhancements
-
-- Database integration (SQLite)
-- Multi-platform support (Linux, macOS)
-- Real-time notifications
-- GPS integration
-- Mobile app
-- Payment integration
-
-## 📞 Support
-
-If you encounter any issues:
-
-1. Check the [DISTRIBUTION_GUIDE.md](DISTRIBUTION_GUIDE.md) troubleshooting section
-2. Make sure you're running `run_carpool.bat` (not the .exe directly)
-3. Verify all files are extracted properly
-4. Open an issue on GitHub
-
-## 🎓 Academic Context
-
-This project was developed as part of the Programming Fundamentals course to demonstrate:
-
-- C programming skills
-- GUI development
-- Data structure implementation
-- File I/O operations
-- Software design principles
+![Version](https://img.shields.io/badge/version-1.0-blue.svg?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-windows-blue.svg?style=for-the-badge&logo=windows)
+![Language](https://img.shields.io/badge/language-C-blue.svg?style=for-the-badge&logo=c)
+![GUI](https://img.shields.io/badge/GUI-GTK3-blue.svg?style=for-the-badge&logo=gtk)
 
 ---
 
-**Version**: 1.0  
-**Last Updated**: November 2025  
-**Status**: Active Development
+## 🌟 Why UniRide?
+
+Say goodbye to expensive commutes and lonely drives. **University Carpooling System** connects students living in the same area, making your daily commute cheaper, greener, and more fun.
+
+|                             🤝 **Smart Matching**                             |                             📅 **Timetable Sync**                             |                    ⚡ **Instant Access**                     |
+| :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :----------------------------------------------------------: |
+| Automatically find the perfect ride partner based on your route and schedule. | Sync rides with your class timings so you never arrive too early or too late. | **No installation required!** Just download, unzip, and run. |
+
+---
+
+## ✨ Features
+
+### 🚘 For Drivers
+
+- **Route Management**: Easily set up your daily route with multiple stops.
+- **Flexible Scheduling**: Choose between a fixed semester schedule or one-time flexible rides.
+- **Seat Control**: Manage your car's capacity and see who's riding with you.
+- **Community Impact**: Help fellow students and reduce your carbon footprint.
+
+### 🎒 For Passengers
+
+- **Easy Search**: Find drivers passing by your area in seconds.
+- **Ride Options**: Book a recurring semester-long seat or a quick one-time lift.
+- **Safe & Secure**: View driver profiles, car details, and verified student info.
+- **Cost Effective**: Save money on fuel and public transport.
+
+---
+
+## 🚀 Quick Start (Portable)
+
+We believe in simplicity. No complex installers, no DLL errors.
+
+1. **[Download the Latest Release](https://github.com/sarimraza1/Carpooling-Management-System/releases)**
+2. **Unzip** the `CarPoolApp-Portable.zip` file.
+3. Double-click **`run_carpool.bat`**.
+4. **Enjoy!** 🎉
+
+> **Note**: Please do not run the `.exe` file directly. The `.bat` script ensures all necessary libraries are loaded correctly.
+
+---
+
+## 🔐 Default Credentials
+
+For testing purposes, you can use the built-in admin account:
+
+- **Email**: `admin@carpool.com`
+- **Password**: `admin123`
+
+_You can also register your own Driver or Passenger account directly from the login screen!_
+
+---
+
+## 🛠️ Tech Stack
+
+Built with performance and reliability in mind.
+
+- **Core Logic**: C (Optimized for speed)
+- **Interface**: GTK3 (Native Windows look & feel)
+- **Data**: Flat-file database for true portability
+
+---
+
+## 📚 Documentation
+
+Want to dive deeper? Check out our detailed guides:
+
+- **[Technical Documentation](code/technicaldoc.md)**: Deep dive into the architecture, data structures, and algorithms.
+- **[Core Logic Guide](code/README_corelogic.md)**: Understanding the business logic behind the matching system.
+- **[Build Instructions](BUILD_INSTRUCTIONS.md)**: How to compile from source.
+
+---
+
+## 👥 Contributors
+
+- **Sarim Raza** ([@sarimraza1](https://github.com/sarimraza1))
+
+---
+
+<div align="center">
+
+**Made with ❤️ for the University Community**
+
+[Report Bug](https://github.com/sarimraza1/Carpooling-Management-System/issues) • [Request Feature](https://github.com/sarimraza1/Carpooling-Management-System/issues)
+
+</div>
